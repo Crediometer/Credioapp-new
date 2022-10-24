@@ -1,0 +1,29 @@
+#side-nav{
+    background-color: white;
+    padding-left: 20px;
+    height: 100vh;
+}
+
+#credio-logo{
+    height: 50px;
+    margin-left: 50px;
+}
+
+#one, #two, #three, #four, #five{
+    display: flex;   
+    margin-bottom: 20px;
+    margin-top: 10px;
+}
+
+#one div, #two div, #three div, #four div, #five div{
+    margin-right: 20px;   
+}
+
+.active{
+    color: #861f41;
+}
+
+a{
+    color: gray;
+    text-decoration: none;
+}

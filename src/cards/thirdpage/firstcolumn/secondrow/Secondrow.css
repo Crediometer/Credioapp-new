@@ -1,0 +1,13 @@
+#second-row{
+    background-color: white;
+    width: 250px;
+    box-shadow: 1px 1px 5px black;
+    clear: both;
+    margin-left: 15px;
+}
+
+#second-row2{
+    justify-content: right;
+    display: flex;
+    clear: both;
+}

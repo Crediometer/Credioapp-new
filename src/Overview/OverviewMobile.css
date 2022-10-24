@@ -1,0 +1,8 @@
+@media screen and (max-width: 768px) {
+    #entire-overview-page{
+        display: none;
+    }
+    #mobile-view{
+        display: block;
+    }
+}

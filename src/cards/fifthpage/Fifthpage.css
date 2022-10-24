@@ -1,0 +1,18 @@
+#print-receipts1 {
+  position: absolute;
+  z-index: 2;
+}
+
+#print-receipts2 {
+  left: 400px;
+  top: 214px;
+  position: absolute;
+  z-index: 1;
+}
+
+#print-receipts3 {
+  left: 600px;
+  top: 214px;
+  position: absolute;
+
+}

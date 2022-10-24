@@ -1,0 +1,8 @@
+#second-row{
+    clear: both;
+}
+
+#second-row1{
+    display: flex;
+    justify-content: space-between;
+}

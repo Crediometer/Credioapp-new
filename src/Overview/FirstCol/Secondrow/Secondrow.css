@@ -1,0 +1,11 @@
+#recent-transactions{
+    display: flex;
+    justify-content: space-between;
+}
+
+#recent-transactions-comp{
+    background-color: white;
+    margin-top: 5px;
+    border-radius: 10px;
+    padding: 5px;
+}

@@ -1,0 +1,9 @@
+#add-account{
+    width: 900px;
+    margin-bottom: 5px;
+    background-color: white;
+}
+#delete-account{
+    width: 900px;
+    background-color: red;
+}

@@ -1,0 +1,13 @@
+#user-search{
+    background-color: white;
+    box-shadow: 1px 1px 5px black;
+    padding: 10px;
+}
+#user-search input{
+    outline: none;
+    border: none;
+}
+
+#cardpage-body{
+    margin: 30px;
+}

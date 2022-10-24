@@ -1,0 +1,11 @@
+#second-row-chat{
+    display: flex;
+    justify-content: right;
+    clear: both;
+}
+
+.Thirdpage{
+    background-color: whitesmoke;
+    height: 100vh;
+}
+

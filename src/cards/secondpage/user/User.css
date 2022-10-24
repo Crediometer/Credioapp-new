@@ -1,0 +1,15 @@
+#user{
+    box-shadow: 1px 1px 5px black;
+    display: flex;
+    justify-content: space-between;
+    margin: 0 40px;
+}
+#username{
+    display: flex;
+}
+
+#transfer{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
